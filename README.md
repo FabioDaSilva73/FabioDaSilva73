@@ -1,16 +1,29 @@
-### Hi there 👋
+# aGoodCrazy 
+:trollface: 
 
-<!--
-**FabioDaSilva73/FabioDaSilva73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hello, I am passionate about problems, crazy about challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I love to learn, but I am fascinated by learning 📘.
+    * Computer Science student at the Federal University of Bahia, Brazil
+    * I have some technicians there ...
+    * Pronouns: Whatever you want!
+
+## Dev
+
+* Initially I am developing my skills in web development for personal projects.
+    * Git
+    * HTML + CSS(💚)
+    * JS (React 💜)
+
+## I've been studying
+
+ * React, 
+ * React Native
+ * e nodeJS
+
+## Additional Information 
+
+ * I love helping people and playing football!
+ * Curiosity: wafer ** cracker ** with ** butter ** is amazing! 🧡
+
