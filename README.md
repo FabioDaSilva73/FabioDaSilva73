@@ -1,4 +1,4 @@
-# freshPrinceOfBelAir# freshPrinceOfBelAir
+# freshPrinceOfBelAir
  
 :trollface: 
 
@@ -19,12 +19,15 @@
 
 ## I've been studying
 
- * React, 
- * React Native
- * e nodeJS
+ * 'React', 
+ * 'React Native',
+ * e 'nodeJS'
 
 ## Additional Information 
 
  * I love helping people and playing football!
  * Curiosity: wafer **cracker** with **butter** is amazing! 🧡
+
+
+
 
