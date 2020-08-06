@@ -19,9 +19,9 @@
 
 ## I've been studying
 
- * 'React', 
- * 'React Native',
- * e 'nodeJS'
+ * React, 
+ * React Native,
+ * e nodeJS
 
 ## Additional Information 
 
