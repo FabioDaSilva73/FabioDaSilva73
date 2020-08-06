@@ -1,11 +1,11 @@
-# freshPrinceOfBelAir
+# freshPrinceOfBelAir# freshPrinceOfBelAir
  
 :trollface: 
 
 
 ## Hello, I am passionate about problems, crazy about challenges.
 
-* I love to learn, but I am fascinated by learning 📘.
+* I love to learn, but I am fascinated by teach 📘.
     * Computer Science student at the Federal University of Bahia, Brazil
     * I have some technicians there ...
     * Pronouns: Whatever you want!
@@ -26,19 +26,5 @@
 ## Additional Information 
 
  * I love helping people and playing football!
- * Curiosity: wafer ** cracker ** with ** butter ** is amazing! 🧡
+ * Curiosity: wafer **cracker** with **butter** is amazing! 🧡
 
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
